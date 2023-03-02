@@ -1,3 +1,12 @@
+# Proof
+## Task 1
+![proof1](https://user-images.githubusercontent.com/81525850/222328466-39ad1380-0d36-4617-b5b5-78f89b81a15f.png)
+![proof2](https://user-images.githubusercontent.com/81525850/222328487-d3641198-5bae-4ead-a047-d0c56349dd12.png)
+
+## Task 2
+![proof1](https://user-images.githubusercontent.com/81525850/222328528-f8148f41-4230-4824-adbd-897adbd01b8b.jpg)
+
+## Task 3
 
 # Contributing
 
